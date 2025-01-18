@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\301264338(arce)_Lab#1.props" />
+</Project>
